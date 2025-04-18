@@ -1,4 +1,4 @@
-from Pet import Pet
+from pet import Pet
 
 # Create a pet
 my_pet = Pet("Buddy")
